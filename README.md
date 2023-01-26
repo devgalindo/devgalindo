@@ -1,6 +1,11 @@
 
 # Welcome to my experimental laboratory! 👨🏽‍🔬🧪
 
+- 👔 My name is Matheus Galindo, but you can call me Galis!
+- 👀 I’m interested in languages, literature, math, philosophy and learn programming.
+- 🌱 I’m currently in a bootcamp at Driven Education and learning things on my own too.
+- 💞️ I’m looking to collaborate on open source, learn languages and make some cool stuff.
+- 📫 I'm Brazilian and I speak portuguese, english and currently studying spanish.
 </br>
 
 ## Reach me:
