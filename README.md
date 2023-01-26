@@ -8,9 +8,8 @@
 - 📫 I'm Brazilian and I speak portuguese, english and currently studying spanish.
 </br>
 
-<div align="right">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgalindo&show_icons=true&theme=radical)
-</div>
+
 
 ## Reach me:
 
